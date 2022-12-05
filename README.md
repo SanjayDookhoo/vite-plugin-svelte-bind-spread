@@ -7,13 +7,13 @@
 [nodejs-image]: https://img.shields.io/badge/Node.js-43853D
 [nodejs-url]: https://nodejs.org/
 [maintained-image]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
-[maintained-url]: https://github.com/SanjayDookhoo/nodejs-better-console
+[maintained-url]: https://github.com/SanjayDookhoo/vite-plugin-svelte-bind-spread
 [ask-image]: https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
-[ask-url]: mailto:sanjaydookhoo@msn.com?subject=nodejs-better-console
-[issues-image]: https://img.shields.io/github/issues/SanjayDookhoo/nodejs-better-console.svg
-[issues-url]: https://github.com/SanjayDookhoo/nodejs-better-console/issues
-[size-image]: https://img.shields.io/bundlephobia/min/nodejs-better-console
-[size-url]: https://www.npmjs.com/package/nodejs-better-console
+[ask-url]: mailto:sanjaydookhoo@msn.com?subject=vite-plugin-svelte-bind-spread
+[issues-image]: https://img.shields.io/github/issues/SanjayDookhoo/vite-plugin-svelte-bind-spread.svg
+[issues-url]: https://github.com/SanjayDookhoo/vite-plugin-svelte-bind-spread/issues
+[size-image]: https://img.shields.io/bundlephobia/min/vite-plugin-svelte-bind-spread
+[size-url]: https://www.npmjs.com/package/vite-plugin-svelte-bind-spread
 
 # Description
 

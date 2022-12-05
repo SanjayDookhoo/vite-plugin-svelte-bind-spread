@@ -1,7 +1,7 @@
 {
 	"name": "vite-plugin-svelte-bind-spread",
 	"author": "Sanjay Dookhoo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A vite plugin for svelte that by default, if a object is spread into a component, it will bind each property in the object as props.",
 	"keywords": ["vite", "plugin", "svelte", "bind", "spread"],
 	"type": "module",
@@ -24,10 +24,5 @@
 		"clean-package": "^2.1.1",
 		"dotenv": "^10.0.0",
 		"nodemon": "^2.0.12"
-	},
-	"clean-package": {
-		"remove": [
-			"type"
-		]
 	}
 }
